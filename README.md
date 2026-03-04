@@ -26,4 +26,3 @@ logs/                 # logging output
 - Flask (for simple UI)
 - pandas, scikit-learn utilities
 
-This README provides a high-level snapshot to help recruiters or reviewers understand the intent and organization of the project. For implementation details, refer to the `src` package and notebooks.
